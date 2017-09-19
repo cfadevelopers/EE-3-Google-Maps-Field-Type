@@ -1,13 +1,6 @@
 <?php
 
-/**
- * Low Search config file
- *
- * @package        low_search
- * @author         Lodewijk Schutte <hi@gotolow.com>
- * @link           http://gotolow.com/addons/low-search
- * @copyright      Copyright (c) 2017, Low
- */
+
 
 return array(
 	'author'         => 'TTK Digital',
